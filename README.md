@@ -1,5 +1,5 @@
 
-[Expo@archlinux ~]$ neofetch
+[expo@archlinux ~]$ neofetch
 
                     -@                    root@archlinux
                    .##@                   -----------------
