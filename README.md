@@ -7,5 +7,3 @@
                 ||----w |
                 ||     ||
 EOF
-
-Your average female zeroday broker.
