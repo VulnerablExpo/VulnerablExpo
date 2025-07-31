@@ -3,8 +3,8 @@
 
                     -@                    root@archlinux
                    .##@                   -----------------
-                  .####@                  Username: expo
-                  @#####@                 Alias: expo, root
+                  .####@                  Username: leet
+                  @#####@                 Alias: expo, root, leet, sudo, zeroday.lol, unixshellshock
                 . *######@                
                .##@o@#####@               
               /############@            
